@@ -1,0 +1,5 @@
+/Users/jahanzebnaeem/Development/Teaching/DotNet/PNY_ASPNet_Batch20/Lecture1/IntrotoCSharp/IntrotoCSharp/bin/Debug/IntrotoCSharp.exe
+/Users/jahanzebnaeem/Development/Teaching/DotNet/PNY_ASPNet_Batch20/Lecture1/IntrotoCSharp/IntrotoCSharp/bin/Debug/IntrotoCSharp.pdb
+/Users/jahanzebnaeem/Development/Teaching/DotNet/PNY_ASPNet_Batch20/Lecture1/IntrotoCSharp/IntrotoCSharp/obj/Debug/IntrotoCSharp.csprojAssemblyReference.cache
+/Users/jahanzebnaeem/Development/Teaching/DotNet/PNY_ASPNet_Batch20/Lecture1/IntrotoCSharp/IntrotoCSharp/obj/Debug/IntrotoCSharp.exe
+/Users/jahanzebnaeem/Development/Teaching/DotNet/PNY_ASPNet_Batch20/Lecture1/IntrotoCSharp/IntrotoCSharp/obj/Debug/IntrotoCSharp.pdb
