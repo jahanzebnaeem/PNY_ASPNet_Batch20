@@ -1,0 +1,10 @@
+Y:\Development\Teaching\DotNet\PNY_ASPNet_Batch20\Lecture2\Batch20WindowForms\Batch20WindowForms\bin\Debug\Batch20WindowForms.exe.config
+Y:\Development\Teaching\DotNet\PNY_ASPNet_Batch20\Lecture2\Batch20WindowForms\Batch20WindowForms\bin\Debug\Batch20WindowForms.exe
+Y:\Development\Teaching\DotNet\PNY_ASPNet_Batch20\Lecture2\Batch20WindowForms\Batch20WindowForms\bin\Debug\Batch20WindowForms.pdb
+Y:\Development\Teaching\DotNet\PNY_ASPNet_Batch20\Lecture2\Batch20WindowForms\Batch20WindowForms\obj\Debug\Batch20WindowForms.csprojAssemblyReference.cache
+Y:\Development\Teaching\DotNet\PNY_ASPNet_Batch20\Lecture2\Batch20WindowForms\Batch20WindowForms\obj\Debug\Batch20WindowForms.Properties.Resources.resources
+Y:\Development\Teaching\DotNet\PNY_ASPNet_Batch20\Lecture2\Batch20WindowForms\Batch20WindowForms\obj\Debug\Batch20WindowForms.csproj.GenerateResource.cache
+Y:\Development\Teaching\DotNet\PNY_ASPNet_Batch20\Lecture2\Batch20WindowForms\Batch20WindowForms\obj\Debug\Batch20WindowForms.exe
+Y:\Development\Teaching\DotNet\PNY_ASPNet_Batch20\Lecture2\Batch20WindowForms\Batch20WindowForms\obj\Debug\Batch20WindowForms.pdb
+Y:\Development\Teaching\DotNet\PNY_ASPNet_Batch20\Lecture2\Batch20WindowForms\Batch20WindowForms\obj\Debug\Batch20WindowForms.frmMain.resources
+Y:\Development\Teaching\DotNet\PNY_ASPNet_Batch20\Lecture2\Batch20WindowForms\Batch20WindowForms\obj\Debug\Batch20WindowForms.frmSample.resources
