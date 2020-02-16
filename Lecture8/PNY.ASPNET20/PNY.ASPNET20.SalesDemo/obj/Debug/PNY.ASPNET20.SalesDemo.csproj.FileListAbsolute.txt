@@ -1,0 +1,8 @@
+Y:\Development\Teaching\DotNet\PNY_ASPNet_Batch20\Lecture8\PNY.ASPNET20\PNY.ASPNET20.SalesDemo\bin\Debug\PNY.ASPNET20.SalesDemo.dll
+Y:\Development\Teaching\DotNet\PNY_ASPNet_Batch20\Lecture8\PNY.ASPNET20\PNY.ASPNET20.SalesDemo\bin\Debug\PNY.ASPNET20.SalesDemo.pdb
+Y:\Development\Teaching\DotNet\PNY_ASPNet_Batch20\Lecture8\PNY.ASPNET20\PNY.ASPNET20.SalesDemo\bin\Debug\PNY.ASPNET20.Common.dll
+Y:\Development\Teaching\DotNet\PNY_ASPNet_Batch20\Lecture8\PNY.ASPNET20\PNY.ASPNET20.SalesDemo\bin\Debug\PNY.ASPNET20.Common.pdb
+Y:\Development\Teaching\DotNet\PNY_ASPNet_Batch20\Lecture8\PNY.ASPNET20\PNY.ASPNET20.SalesDemo\obj\Debug\PNY.ASPNET20.SalesDemo.csprojAssemblyReference.cache
+Y:\Development\Teaching\DotNet\PNY_ASPNet_Batch20\Lecture8\PNY.ASPNET20\PNY.ASPNET20.SalesDemo\obj\Debug\PNY.ASPNET20.SalesDemo.csproj.CopyComplete
+Y:\Development\Teaching\DotNet\PNY_ASPNet_Batch20\Lecture8\PNY.ASPNET20\PNY.ASPNET20.SalesDemo\obj\Debug\PNY.ASPNET20.SalesDemo.dll
+Y:\Development\Teaching\DotNet\PNY_ASPNet_Batch20\Lecture8\PNY.ASPNET20\PNY.ASPNET20.SalesDemo\obj\Debug\PNY.ASPNET20.SalesDemo.pdb

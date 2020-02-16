@@ -1,0 +1,5 @@
+Y:\Development\Teaching\DotNet\PNY_ASPNet_Batch20\Lecture8\PNY.ASPNET20\PNY.ASPNET20.Common\bin\Debug\PNY.ASPNET20.Common.dll
+Y:\Development\Teaching\DotNet\PNY_ASPNet_Batch20\Lecture8\PNY.ASPNET20\PNY.ASPNET20.Common\bin\Debug\PNY.ASPNET20.Common.pdb
+Y:\Development\Teaching\DotNet\PNY_ASPNet_Batch20\Lecture8\PNY.ASPNET20\PNY.ASPNET20.Common\obj\Debug\PNY.ASPNET20.Common.csprojAssemblyReference.cache
+Y:\Development\Teaching\DotNet\PNY_ASPNet_Batch20\Lecture8\PNY.ASPNET20\PNY.ASPNET20.Common\obj\Debug\PNY.ASPNET20.Common.dll
+Y:\Development\Teaching\DotNet\PNY_ASPNet_Batch20\Lecture8\PNY.ASPNET20\PNY.ASPNET20.Common\obj\Debug\PNY.ASPNET20.Common.pdb
